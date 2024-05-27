@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/trvelpro/static/css/main.de938cfc.css",
-    "main.js": "/trvelpro/static/js/main.c7d9e68e.js",
+    "main.css": "/trvelpro/static/css/main.a7884501.css",
+    "main.js": "/trvelpro/static/js/main.8f084fbc.js",
     "static/js/453.4c4769a4.chunk.js": "/trvelpro/static/js/453.4c4769a4.chunk.js",
     "static/media/ba.mp4": "/trvelpro/static/media/ba.51998f420cccf9dcb51f.mp4",
     "static/media/banner.mp4": "/trvelpro/static/media/banner.8397ca965b8fdce36d05.mp4",
@@ -15,12 +15,12 @@
     "static/media/1.jpg": "/trvelpro/static/media/1.07f134933e8c8ac359b9.jpg",
     "static/media/tlogo.png": "/trvelpro/static/media/tlogo.90da3cc693a68e4c5752.png",
     "index.html": "/trvelpro/index.html",
-    "main.de938cfc.css.map": "/trvelpro/static/css/main.de938cfc.css.map",
-    "main.c7d9e68e.js.map": "/trvelpro/static/js/main.c7d9e68e.js.map",
+    "main.a7884501.css.map": "/trvelpro/static/css/main.a7884501.css.map",
+    "main.8f084fbc.js.map": "/trvelpro/static/js/main.8f084fbc.js.map",
     "453.4c4769a4.chunk.js.map": "/trvelpro/static/js/453.4c4769a4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.de938cfc.css",
-    "static/js/main.c7d9e68e.js"
+    "static/css/main.a7884501.css",
+    "static/js/main.8f084fbc.js"
   ]
 }
